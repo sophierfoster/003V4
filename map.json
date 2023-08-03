@@ -88,9 +88,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.vimeo.com\/video\/851283479?h=95867dff38"
+                 "value":"https:\/\/player.vimeo.com\/video\/851283479?h=95867dff38&byline=0&portrait=0"
                 }],
          "type":"tilelayer",
          "visible":true,
