@@ -405,7 +405,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"url",
                  "type":"string",
                  "value":"mailto:sophie.foster@uni-weimar.de"
                 }],
