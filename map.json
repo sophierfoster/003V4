@@ -1088,12 +1088,12 @@
                      "fontfamily":"Arial",
                      "halign":"center",
                      "pixelsize":15,
-                     "text":"Meeting Room",
+                     "text":"Onboarding Room",
                      "wrap":true
                     },
                  "visible":true,
-                 "width":99.3333333333333,
-                 "x":40.1666666666667,
+                 "width":127.333333333333,
+                 "x":34.1666666666667,
                  "y":201.166666666667
                 }, 
                 {
